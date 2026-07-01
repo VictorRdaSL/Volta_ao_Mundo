@@ -9,10 +9,13 @@ Projeto desenvolvido em HTML5 e CSS3 para a disciplina de Desenvolvimento Web I.
   <img src="https://i.imgur.com/lz4oCbF.png" alt="Imagem" width="900">
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dUmBnTb.png" alt="Imagem" width="900">
+</p>
 
-
-
-
+<p align="center">
+  <img src="https://i.imgur.com/9LxIcjd.png" alt="Imagem" width="900">
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/jtYjz1a.png" alt="Banner" width="900">
